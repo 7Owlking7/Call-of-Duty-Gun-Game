@@ -152,12 +152,12 @@ GG_BACKUP_SKINS_LIST = {
 --[[-------------------------------------------------------------------------
 The default number of minutes a round will take. You can also edit this in-game.
 ---------------------------------------------------------------------------]]
-GG_ROUND_TIME_IN_MINUTES = 15
+GG_ROUND_TIME_IN_MINUTES = 20
 
 --[[-------------------------------------------------------------------------
 The default amount of rounds a match has. You can also edit this in-game.
 ---------------------------------------------------------------------------]]
-GG_AMOUNT_OF_ROUNDS_PER_MATCH = 5
+GG_AMOUNT_OF_ROUNDS_PER_MATCH = 10
 
 --[[-------------------------------------------------------------------------
 This is a list of usernames who can edit the game settings and start the 
